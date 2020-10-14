@@ -6,3 +6,5 @@ It has 4 main folders:
 - Pages
 - Raport
 - Locators
+
+Main file is in Tests folder: file login.py
